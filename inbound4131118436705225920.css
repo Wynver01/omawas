@@ -1,0 +1,9 @@
+.box {
+border-radius: 10px;
+  border: 10px;
+  border-block-color: blue;
+color: pink;
+  background-color: Yellow;
+  width: 100px;
+  height: 50px;
+}
